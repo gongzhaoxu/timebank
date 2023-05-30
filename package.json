@@ -7,7 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "core-js": "^3.8.3",
+    "dayjs": "^1.11.7",
+    "element-china-area-data": "^6.0.2",
+    "element-plus": "^2.3.3",
+    "elui-china-area-dht": "^2.0.0",
+    "moment": "^2.29.4",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
@@ -20,6 +26,8 @@
     "@vue/cli-service": "~5.0.0",
     "less": "^4.0.0",
     "less-loader": "^8.0.0",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.0",
     "typescript": "~4.5.5"
   }
 }
